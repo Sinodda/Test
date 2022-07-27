@@ -3,6 +3,8 @@ masih banyak kurangnya, karena saya buat waktu masih awal belajar web :smile:
 # :camera: Foto project
 ![alt text](https://github.com/Sinodda/Test/blob/main/tes.jpeg)
 <br>
+<br>
+Ini foto random
 ![alt text](https://github.com/Sinodda/Test/blob/main/biwar3.jpg)
 <br>
 hehe
